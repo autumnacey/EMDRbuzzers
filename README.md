@@ -32,9 +32,9 @@ For either of these, you will need:
 | PCBs + Shipping | 5 | $20 | https://jlcpcb.com |
 | Arduino Nano | 5 | $18 | https://a.co/d/fy4D3Uy |
 | 9V Battery Connector | 5 | $5.15 | https://a.co/d/67JnN00 |
-| 200ohm Resistors | 10 | $1.00 | https://www.digikey.com/short/vbt50w0v |
+| 220ohm Resistors | 10 | $1.00 | https://www.digikey.com/short/vbt50w0v |
 | Red LEDs | 10 | $1.60 | https://www.digikey.com/short/cvtcr9rd |
-| Vibration Motors | 12 | $14.00 | https://a.co/d/hR1sUoz |
+| Vibration Motors | 10 | $14.00 | https://a.co/d/hR1sUoz |
 
 Total: $59.75 -> 11.95/unit
 
@@ -44,8 +44,12 @@ Total: $59.75 -> 11.95/unit
 | PCBs + Shipping | 5 | $20 | https://jlcpcb.com |
 | ATTiny-85-20SF | 5 | $7.50 | https://mou.sr/4hANUs1 |
 | 2xAAA Battery Holders | 5 | $5.15 | https://mou.sr/4ivnF7D |
-| 200ohm Resistors | 10 | $1.00 | https://www.digikey.com/short/vbt50w0v |
+| 220ohm Resistors | 10 | $1.00 | https://www.digikey.com/short/vbt50w0v |
 | Red LEDs | 10 | $1.60 | https://www.digikey.com/short/cvtcr9rd |
-| Vibration Motors | 12 | $14.00 | https://a.co/d/hR1sUoz |
+| Vibration Motors | 10 | $14.00 | https://a.co/d/hR1sUoz |
 
 Total: $49.25-> 9.85/unit
+
+<h1>Involved Construction</h1>
+
+<h1>Expert Construction</h1>
